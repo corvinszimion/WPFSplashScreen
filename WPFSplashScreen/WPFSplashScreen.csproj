@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <Title>WPFSplashScreen</Title>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Authors>Corvin Szimion</Authors>
+    <Product>WPF Splash screen helper library</Product>
+    <Description>WPFSplashScreen is a framework to easily display a splash screen in a WPF application</Description>
+    <Copyright>2023</Copyright>
+  </PropertyGroup>
+
+</Project>
